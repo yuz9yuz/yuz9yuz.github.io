@@ -3,7 +3,7 @@ Email: yuzhang [AT] tamu [DOT] edu; yuz9yuz [AT] gmail [DOT] com
 Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843 
 
 ## About Me
-I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io).
+I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuz9yuz.github.io/sky-lab.github.io).
 
 Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd.org/awards/view/2025-sigkdd-dissertation-award-winners).
 
@@ -153,7 +153,7 @@ _Internal and External Impacts of Natural Language Processing Papers_ [[PDF](pap
 **Yu Zhang**.      
 [ACL 2025](https://2025.aclweb.org). Vienna, Austria. (Short Paper)
 
-_Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](https://arxiv.org/abs/2310.14483)] [[code](https://github.com/yuzhimanhua/CoF)]     
+_Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](https://arxiv.org/abs/2310.14483)] [[code](https://github.com/yuz9yuz/CoF)]     
 **Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.      
 [WWW 2025](https://www2025.thewebconf.org). Sydney, Australia.
 
@@ -174,11 +174,11 @@ _Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois
 **Yu Zhang**.      
 [Ph.D. Thesis](https://www.ideals.illinois.edu/items/134246). (<span style="color:#ad1457; font-weight:bold;">ACM SIGKDD Dissertation Award Runner-Up</span>)
 
-_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]     
+_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuz9yuz/Awesome-Scientific-Language-Models)]     
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
-[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. [![Stars](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)]()
+[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. [![Stars](https://img.shields.io/github/stars/yuz9yuz/Awesome-Scientific-Language-Models?style=social)]()
 
-_Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
+_Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuz9yuz/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 [AAAI 2024](https://aaai.org/aaai-conference). Vancouver, Canada.
 
@@ -191,15 +191,15 @@ Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Zheng Li, R
 [Findings of ACL 2024](https://2024.aclweb.org). Bangkok, Thailand. [![Stars](https://img.shields.io/github/stars/PeterGriffinJin/Graph-CoT?style=social)]()
 
 ### 2023
-_Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding_ [[PDF](papers/emnlp23findings.pdf)] [[arXiv](https://arxiv.org/abs/2305.14232)] [[project page](https://scimult.github.io)] [[code](https://github.com/yuzhimanhua/SciMult)] [[model](https://huggingface.co/yuz9yuz/SciMult/tree/main)] [[dataset](https://drive.google.com/file/d/1hoUAInDVO_UYnQiOOoVuBjwnVgY0BosO/view?usp=drive_link)] [[PMC-Patients leaderboard](https://pmc-patients.github.io)]      
+_Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding_ [[PDF](papers/emnlp23findings.pdf)] [[arXiv](https://arxiv.org/abs/2305.14232)] [[project page](https://scimult.github.io)] [[code](https://github.com/yuz9yuz/SciMult)] [[model](https://huggingface.co/yuz9yuz/SciMult/tree/main)] [[dataset](https://drive.google.com/file/d/1hoUAInDVO_UYnQiOOoVuBjwnVgY0BosO/view?usp=drive_link)] [[PMC-Patients leaderboard](https://pmc-patients.github.io)]      
 **Yu Zhang\***, Hao Cheng\*, Zhihong Shen, Xiaodong Liu, Ye-Yi Wang, and Jianfeng Gao.     
 [Findings of EMNLP 2023](https://2023.emnlp.org). Singapore, Singapore.
 
-_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_ [[PDF](papers/kdd23zhang.pdf)] [[arXiv](https://arxiv.org/abs/2306.14003)] [[code](https://github.com/yuzhimanhua/FUTEX)]      
+_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_ [[PDF](papers/kdd23zhang.pdf)] [[arXiv](https://arxiv.org/abs/2306.14003)] [[code](https://github.com/yuz9yuz/FUTEX)]      
 **Yu Zhang**, Bowen Jin, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han.     
 [KDD 2023](https://kdd.org/kdd2023). Long Beach, CA, USA.
 
-_The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study_ [[PDF](papers/www23.pdf)] [[arXiv](https://arxiv.org/abs/2302.03341)] [[code](https://github.com/yuzhimanhua/MAPLE)] [[dataset](https://doi.org/10.5281/zenodo.7611544)]    
+_The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study_ [[PDF](papers/www23.pdf)] [[arXiv](https://arxiv.org/abs/2302.03341)] [[code](https://github.com/yuz9yuz/MAPLE)] [[dataset](https://doi.org/10.5281/zenodo.7611544)]    
 **Yu Zhang**, Bowen Jin, Qi Zhu, Yu Meng, and Jiawei Han.      
 [WWW 2023](https://www2023.thewebconf.org). Austin, TX, USA.
 
@@ -236,15 +236,15 @@ Xiusi Chen, **Yu Zhang**, Jinliang Deng, Jyun-Yu Jiang, and Wei Wang.
 [SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23). Minneapolis, MN, USA. (Regular Paper, <span style="color:#ad1457; font-weight:bold;">Best Poster Award Honorable Mention</span>)
 
 ### 2022
-_Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds_ [[PDF](papers/naacl22.pdf)] [[arXiv](https://arxiv.org/abs/2205.01845)] [[code](https://github.com/yuzhimanhua/SeeTopic)]       
+_Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds_ [[PDF](papers/naacl22.pdf)] [[arXiv](https://arxiv.org/abs/2205.01845)] [[code](https://github.com/yuz9yuz/SeeTopic)]       
 **Yu Zhang**, Yu Meng, Xuan Wang, Sheng Wang, and Jiawei Han.       
 [NAACL 2022](https://2022.naacl.org). Seattle, WA, USA.
 
-_Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification_ [[PDF](papers/www22zhang.pdf)] [[arXiv](https://arxiv.org/abs/2202.05932)] [[code](https://github.com/yuzhimanhua/MICoL)]     
+_Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification_ [[PDF](papers/www22zhang.pdf)] [[arXiv](https://arxiv.org/abs/2202.05932)] [[code](https://github.com/yuz9yuz/MICoL)]     
 **Yu Zhang**, Zhihong Shen, Chieh-Han Wu, Boya Xie, Junheng Hao, Ye-Yi Wang, Kuansan Wang, and Jiawei Han.      
 [WWW 2022](https://www2022.thewebconf.org). Lyon, France.
 
-_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_ [[PDF](papers/wsdm22.pdf)] [[arXiv](https://arxiv.org/abs/2111.04022)] [[code](https://github.com/yuzhimanhua/MotifClass)]           
+_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_ [[PDF](papers/wsdm22.pdf)] [[arXiv](https://arxiv.org/abs/2111.04022)] [[code](https://github.com/yuz9yuz/MotifClass)]           
 **Yu Zhang\***, Shweta Garg\*, Yu Meng, Xiusi Chen, and Jiawei Han.          
 [WSDM 2022](https://www.wsdm-conference.org/2022). Tempe, AZ, USA.
 
@@ -261,11 +261,11 @@ Yu Meng, Yunyi Zhang, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 [WWW 2022](https://www2022.thewebconf.org). Lyon, France.
 
 ### 2021
-_MATCH: Metadata-Aware Text Classification in A Large Hierarchy_ [[PDF](papers/www21.pdf)] [[arXiv](https://arxiv.org/abs/2102.07349)] [[code](https://github.com/yuzhimanhua/MATCH)]         
+_MATCH: Metadata-Aware Text Classification in A Large Hierarchy_ [[PDF](papers/www21.pdf)] [[arXiv](https://arxiv.org/abs/2102.07349)] [[code](https://github.com/yuz9yuz/MATCH)]         
 **Yu Zhang**, Zhihong Shen, Yuxiao Dong, Kuansan Wang, and Jiawei Han.     
 [WWW 2021](https://www2021.thewebconf.org). Ljubljana, Slovenia.
 
-_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](papers/wsdm21.pdf)] [[arXiv](https://arxiv.org/abs/2010.13556)] [[code](https://github.com/yuzhimanhua/HIMECat)]       
+_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](papers/wsdm21.pdf)] [[arXiv](https://arxiv.org/abs/2010.13556)] [[code](https://github.com/yuz9yuz/HIMECat)]       
 **Yu Zhang**, Xiusi Chen, Yu Meng, and Jiawei Han.          
 [WSDM 2021](https://www.wsdm-conference.org/2021). Jerusalem, Israel.
 
@@ -274,7 +274,7 @@ Yu Meng, Yunyi Zhang, Jiaxin Huang, Xuan Wang, **Yu Zhang**, Heng Ji, and Jiawei
 [EMNLP 2021](https://2021.emnlp.org). Punta Cana, Dominican Republic.
 
 ### 2020
-_Minimally Supervised Categorization of Text with Metadata_ [[PDF](papers/sigir20.pdf)] [[arXiv](https://arxiv.org/abs/2005.00624)] [[code](https://github.com/yuzhimanhua/MetaCat)]      
+_Minimally Supervised Categorization of Text with Metadata_ [[PDF](papers/sigir20.pdf)] [[arXiv](https://arxiv.org/abs/2005.00624)] [[code](https://github.com/yuz9yuz/MetaCat)]      
 **Yu Zhang\***, Yu Meng\*, Jiaxin Huang, Frank F. Xu, Xuan Wang, and Jiawei Han.          
 [SIGIR 2020](https://sigir.org/sigir2020). Xi'an, China.
 
@@ -287,11 +287,11 @@ Yu Meng, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, **Yu Zhang**, and
 [WWW 2020](https://www2020.thewebconf.org). Taipei, Taiwan.
 
 ### 2019
-_HiGitClass: Keyword-Driven Hierarchical Classification of GitHub Repositories_ [[PDF](papers/icdm19.pdf)] [[arXiv](https://arxiv.org/abs/1910.07115)] [[code](https://github.com/yuzhimanhua/HiGitClass)]         
+_HiGitClass: Keyword-Driven Hierarchical Classification of GitHub Repositories_ [[PDF](papers/icdm19.pdf)] [[arXiv](https://arxiv.org/abs/1910.07115)] [[code](https://github.com/yuz9yuz/HiGitClass)]         
 **Yu Zhang**, Frank F. Xu, Sha Li, Yu Meng, Xuan Wang, Qi Li, and Jiawei Han.         
 [ICDM 2019](http://icdm2019.bigke.org). Beijing, China.
 
-_Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning_ [[PDF](papers/bioinformatics19.pdf)] [[arXiv](https://arxiv.org/abs/1801.09851)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/256453)] [[code](https://github.com/yuzhimanhua/Multi-BioNER)]       
+_Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning_ [[PDF](papers/bioinformatics19.pdf)] [[arXiv](https://arxiv.org/abs/1801.09851)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/256453)] [[code](https://github.com/yuz9yuz/Multi-BioNER)]       
 Xuan Wang, **Yu Zhang**, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, and Jiawei Han.        
 [Bioinformatics](https://academic.oup.com/bioinformatics). Volume 35, Issue 10. Oxford University Press.
 
@@ -309,11 +309,11 @@ Qi Zhu, Xiang Ren, Jingbo Shang, **Yu Zhang**, Frank F. Xu, and Jiawei Han.
 [WWW 2018](https://www2018.thewebconf.org). Lyon, France. (Poster, <span style="color:#ad1457; font-weight:bold;">Best Poster Award Honorable Mention</span>)
 
 ### 2017
-_RATE: Overcoming Noise and Sparsity of Textual Features in Real-Time Location Estimation_ [[PDF](papers/cikm17.pdf)] [[arXiv](https://arxiv.org/abs/2111.06515)] [[code](https://github.com/yuzhimanhua/Location-Inference)]        
+_RATE: Overcoming Noise and Sparsity of Textual Features in Real-Time Location Estimation_ [[PDF](papers/cikm17.pdf)] [[arXiv](https://arxiv.org/abs/2111.06515)] [[code](https://github.com/yuz9yuz/Location-Inference)]        
 **Yu Zhang**, Wei Wei, Binxuan Huang, Kathleen M. Carley, and Yan Zhang.    
 [CIKM 2017](http://www.cikmconference.org/CIKM2017). Singapore, Singapore. (Short Paper)      
 
-_Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/sigir17.pdf)] [[code](https://github.com/yuzhimanhua/Influence-Maximization)]      
+_Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/sigir17.pdf)] [[code](https://github.com/yuz9yuz/Influence-Maximization)]      
 **Yu Zhang** and Yan Zhang.    
 [SIGIR 2017](http://sigir.org/sigir2017). Shinjuku, Tokyo, Japan. (Short Paper)
 
