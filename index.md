@@ -362,7 +362,7 @@ Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Va
 ## Honors and Awards
 Best/Outstanding Reviewer, [ACL 2026](awards/ACL26_Outstanding_SAC.pdf) (as Senior Area Chair), EMNLP 2024, [KDD 2023](awards/KDD23_Best_Reviewer.pdf), WWW 2023, CIKM 2022
 
-AAAI New Faculty Highlights, 2027
+AAAI New Faculty Highlights, 2027     
 Anthropic AI for Science Program, 2026     
 NVIDIA Academic Grant, 2026     
 ACM SIGKDD Dissertation Award Runner-Up, [2025](awards/KDD25_Dissertation_Runner_Up.html)     
