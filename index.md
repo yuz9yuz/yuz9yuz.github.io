@@ -31,6 +31,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee), [WWW 2027](https://www2027.thewebconf.org) (Area Chair), and [ACL 2027](https://2027.aclweb.org) (Senior Area Chair).
 
+2026-11-06 Selected for the [AAAI New Faculty Highlights Program](https://aaai.org/conference/aaai/aaai-27/new-faculty-highlights-call-for-proposals)!
+
 2026-10-05 Gave a guest lecture (virtually) at York University.
 
 2026-09-24 One paper got accepted by [NeurIPS 2026](https://neurips.cc/Conferences/2026) and was selected for a spotlight presentation (top 1.3% of all submissions; 112 Orals + 292 Spotlights out of 30,709 submissions).
@@ -42,8 +44,6 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 2026-08-20 Three papers got accepted by [EMNLP 2026](https://2026.emnlp.org) (2 main conference + 1 findings)! The acceptance rate is 15.4% for main conference papers and 14.3% for findings papers.
 
 2026-07-07 Honored to be selected as one of the [Outstanding Senior Area Chairs](awards/ACL26_Outstanding_SAC.pdf) by [ACL 2026](https://2026.aclweb.org)!
-
-2026-07-03 Selected for the [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program)!
 
 2026-07-02 Attended [ACL 2026](https://2026.aclweb.org) in San Diego, CA.
 
@@ -91,7 +91,7 @@ _GraphDancer: Training LLMs to Explore and Reason over Graphs via Curriculum Rei
 Yuyang Bai, Zhuofeng Li, Ping Nie, Jianwen Xie, Yu Wang, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
 
-_Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
+_Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)] [[code](https://github.com/yuz9yuz/UpwardBias)]     
 Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.     
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
@@ -362,9 +362,9 @@ Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Va
 ## Honors and Awards
 Best/Outstanding Reviewer, [ACL 2026](awards/ACL26_Outstanding_SAC.pdf) (as Senior Area Chair), EMNLP 2024, [KDD 2023](awards/KDD23_Best_Reviewer.pdf), WWW 2023, CIKM 2022
 
+AAAI New Faculty Highlights, 2027
 Anthropic AI for Science Program, 2026     
 NVIDIA Academic Grant, 2026     
-OpenAI Researcher Access Program, 2026     
 ACM SIGKDD Dissertation Award Runner-Up, [2025](awards/KDD25_Dissertation_Runner_Up.html)     
 Dissertation Completion Fellowship, Graduate College, UIUC (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
 Data Mining Research Excellence Gold Award, Data Mining Group, UIUC, 2023, 2024     
